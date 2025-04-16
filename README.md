@@ -1,7 +1,8 @@
 # 👋 Hey, I’m Akshatha K
 
 Welcome to my GitHub!  
-I'm a **Cybersecurity Engineer** with 2.6 years of experience in secure software development, open-source vulnerability management, and enterprise risk mitigation. I specialize in integrating security seamlessly into development workflows — from code to deployment.
+I'm a **Cybersecurity Enthusiast** with 2.6 years of experience in secure software development, open-source vulnerability management, and enterprise risk mitigation. I specialize in integrating security seamlessly into development workflows — from code to deployment. also a passionate learner and hands-on cybersecurity practitioner with a growing collection of practical projects in offensive security, vulnerability assessment, malware analysis, and incident response.
+
 
 ## 🛡️ About Me
 
